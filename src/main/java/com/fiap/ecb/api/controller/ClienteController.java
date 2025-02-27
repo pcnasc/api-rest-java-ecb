@@ -1,7 +1,7 @@
-package com.fiap.ecb.controller;
+package com.fiap.ecb.api.controller;
 
 import com.fiap.ecb.api.model.Cliente;
-import com.fiap.ecb.service.ClienteService;
+import com.fiap.ecb.api.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
